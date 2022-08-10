@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sujinnyan.github.io/typescript-app/static/css/main.fa87a388.css",
+    "main.js": "/sujinnyan.github.io/typescript-app/static/js/main.fbf795fe.js",
+    "index.html": "/sujinnyan.github.io/typescript-app/index.html",
+    "main.fa87a388.css.map": "/sujinnyan.github.io/typescript-app/static/css/main.fa87a388.css.map",
+    "main.fbf795fe.js.map": "/sujinnyan.github.io/typescript-app/static/js/main.fbf795fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa87a388.css",
+    "static/js/main.fbf795fe.js"
+  ]
+}
